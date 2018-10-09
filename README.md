@@ -3,6 +3,10 @@ Source code for the paper entitled "Saliency detection based on structural dissi
 
 SDS means structural-dissimilarity-based saliency.
 
+Yang Li: liyang2012@stu.xjtu.edu.cn
+
+Xuanqin Mou: xqmou@mail.xjtu.edu.cn
+
 # SDS demo:
 ./SDS_demo/demo.m     % the demo script showing the usage of the functions SDS_GM.m and SDS_LC.m
 
