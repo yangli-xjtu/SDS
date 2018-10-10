@@ -1,4 +1,4 @@
-# Please 'F5andRun.m'
+# Please 'F5andRun'
 
 ## Note
 % This project is used to get the results of the paper submitted to JEI
