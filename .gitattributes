@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.hpp linguist-language=matlab
+*.hxx linguist-language=matlab
+*.cpp linguist-language=matlab
