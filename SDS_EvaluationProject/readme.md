@@ -12,7 +12,7 @@
 
 % This project is written by Yang Li, 2018, yangli2012@stu.xjtu.edu.cn
 
-% Some codes borrowed from Mingming Cheng's codes.
+% Some codes are borrowed from Mingming Cheng's codes.
 
 % mmcheng's Git project page: https://github.com/MingMingCheng/SalBenchmark.
 
