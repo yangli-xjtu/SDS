@@ -7,7 +7,7 @@ Yang Li: liyang2012@stu.xjtu.edu.cn
 
 Xuanqin Mou: xqmou@mail.xjtu.edu.cn
 
-# SDS demo:
+# SDS demo
 ./SDS_demo/demo.m     % the demo script showing the usage of the functions SDS_GM.m and SDS_LC.m
 
 ./SDS_demo/SDS_GM.m   % the SDS model based on the gradient magnitude
