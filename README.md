@@ -9,6 +9,10 @@ Xuanqin Mou: xqmou@mail.xjtu.edu.cn
 
 The offical website of this code is http://gr.xjtu.edu.cn/web/xqmou/sds_saliency
 
+
+# Results
+![image](https://github.com/yangli-xjtu/SDS/blob/master/results.png)
+
 # SDS demo
 ./SDS_demo/demo.m     % the demo script showing the usage of the functions SDS_GM.m and SDS_LC.m
 
