@@ -48,6 +48,6 @@ function [saMap] = StructuralDissimilarity(Features)
     saMap = mat2gray(g_saMap.^8);
 end
 
-function [dissimilaryBlock] = (block1, block2, cScale)
+function [dissimilaryBlock] = keyFunc(block1, block2, cScale)
     dissimilaryBlock = (block1 - block2).^2 ./ (block1.^2 + block2.^2 + cScale);
 end
