@@ -13,6 +13,16 @@ The offical website of this code is http://gr.xjtu.edu.cn/web/xqmou/sds_saliency
 # Results
 ![image](https://github.com/yangli-xjtu/SDS/blob/master/results.png)
 
+Scores on the MIT300 benchmark:
+Normalized Scanpath Saliency metric (NSS): 1.3880;
+AUC (Judd) metric: 0.8148;
+AUC (Borji) metric: 0.7646;
+Similarity metric: 0.5183;
+Cross-correlation metric: 0.5298;
+shuffled AUC metric: 0.6004;
+KL metric: 0.8903;
+Earth Mover Distance metric: 3.1696;
+
 # SDS demo
 ./SDS_demo/demo.m     % the demo script showing the usage of the functions SDS_GM.m and SDS_LC.m
 
