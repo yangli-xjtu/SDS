@@ -1,5 +1,5 @@
 # SDS
-Source code for the paper "Saliency detection based on structural dissimilarity induced by image quality assessment model", Yang Li and Xuanqin Mou, accepted by Journal of Electronic Imaging.
+Source code for the paper "Saliency detection based on structural dissimilarity induced by image quality assessment model", Yang Li and Xuanqin Mou, Journal of Electronic Imaging, 28(2) 023025 (3 April 2019)
 
 SDS means structural-dissimilarity-based saliency.
 
@@ -8,6 +8,18 @@ Yang Li: liyang2012@stu.xjtu.edu.cn
 Xuanqin Mou: xqmou@mail.xjtu.edu.cn
 
 The offical website of this code is http://gr.xjtu.edu.cn/web/xqmou/sds_saliency
+
+Citation:
+@article{
+author = { Yang  Li,Xuanqin  Mou},
+title = {Saliency detection based on structural dissimilarity induced by image quality assessment model},
+volume = {28},
+journal = {Journal of Electronic Imaging},
+number = {2},
+pages = {023025 - 1 - 14},
+year = {2019},
+doi = {10.1117/1.JEI.28.2.023025},
+}
 
 
 # Results
